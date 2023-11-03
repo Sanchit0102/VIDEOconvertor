@@ -16,7 +16,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
 
 print("Successfully deployed!")
-print("@MaheshChauhan • @DroneBots")
+print("@THE_DS_OFFICIAL • @THE_SILENT_TEAMS")
 
 if __name__ == "__main__":
     Drone.run_until_disconnected()
