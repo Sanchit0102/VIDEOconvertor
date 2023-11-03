@@ -27,7 +27,7 @@ help_text = """**v1.4**
 
 •`Trim` - cut your videos"""
 
-source_text = "**Deploy your own bot**"
+source_text = "**REPO Is Not Public**"
 
 DEV = "https://t.me/THE_DS_OFFICIAL"
 
